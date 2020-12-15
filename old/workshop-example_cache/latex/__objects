@@ -1,0 +1,8 @@
+load-libraries	
+load_data	data	meta
+data-ordering	data_ordered
+unnamed-chunk-1	age_in_days	new_meta	samplemeans
+scatterplot	
+boxplot	
+tidy the dataset and metadata	age_in_days	new_meta	samplemeans
+practice to get a table	

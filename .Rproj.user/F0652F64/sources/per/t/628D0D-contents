@@ -1,0 +1,44 @@
+---
+title: "R for Data Science Book Self Sstudy"
+author: "Younjung Choi"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Visualization
+Here, I'm creating a plot with the data mpg.
+* x axis: displ
+* y axis: hwy
+With ggplot() function, you can add various layers to the basic plot using + sign.
+1. ggplot(): the dataset to use in the graph. This generates an empty graph. So we need layers to specify the plot.
+```{r basic plot}
+library(ggplot2)
+ggplot(data = mpg)
+# ggplot(mpg) means the same
+```
+
+
+2. So one or more layers are required to complete the plot. Layers that to be added will specify the graph.
+```{r data loading and basic plotting}
+ggplot(mpg) +
+  geom_point(mapping = aes(displ, hwy))
+```
+Here, I specified the type of plot and the axes.
+The function geom_point() adds a layer of points to the empty plot created by ggplot(mgp).
+The points added create a scatterplot.
+So, if you add a different layer instead of geom_point, you'll get a different type of plot.
+Every geom function requires a mapping argument.
+Simply speaking, this argument defines how the variables of your choice will be mapped in your graph. (x and y axis)
+The mapping() argument is always with aes() which specifies x and y axis respectively.
+
+
+
+
+
+
+
+

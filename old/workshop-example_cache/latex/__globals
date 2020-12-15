@@ -1,0 +1,8 @@
+load-libraries	library
+load_data	kable	read.csv	T
+data-ordering	colnames	data	head	match	meta	rownames
+unnamed-chunk-1	apply	c	cbind	data_ordered	kable	mean	meta
+scatterplot	aes	age_in_days	celltype	element_text	genotype	geom_point	ggplot	ggtitle	new_meta	rel	samplemeans	theme	theme_bw	xlab	ylab
+boxplot	aes	celltype	element_text	genotype	geom_boxplot	ggplot	ggtitle	new_meta	rel	samplemeans	theme	xlab	ylab
+tidy the dataset and metadata	apply	c	cbind	data_ordered	kable	mean	meta
+practice to get a table	%>%	head	help	kable	library	mtcars

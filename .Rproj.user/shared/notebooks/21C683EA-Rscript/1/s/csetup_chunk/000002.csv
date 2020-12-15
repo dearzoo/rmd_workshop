@@ -1,0 +1,7 @@
+"0","knitr::opts_chunk$set("
+"0","	echo = TRUE,"
+"0","	error = TRUE,"
+"0","	warning = FALSE,"
+"0","	dev = c(""png"", ""pdf"", ""svg""),"
+"0","	tidy = TRUE"
+"0",")"

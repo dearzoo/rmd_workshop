@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591672270387.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3046020459",
+    "id" : "628D0D",
+    "lastKnownWriteTime" : 1591725451,
+    "last_content_update" : 1591725451581,
+    "path" : "~/Dropbox (Partners HealthCare)/99. Materials/Training/rmd_workshop/R for Data Science.Rmd",
+    "project_path" : "R for Data Science.Rmd",
+    "properties" : {
+        "cursorPosition" : "38,0",
+        "last_setup_crc32" : "43F1F383bb338d19",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

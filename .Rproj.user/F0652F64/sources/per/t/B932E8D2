@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590983115698.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3488380648",
+    "id" : "B932E8D2",
+    "lastKnownWriteTime" : 1591073795,
+    "last_content_update" : 1591120227388,
+    "path" : "~/Dropbox (Partners HealthCare)/99. Materials/Training/rmd_workshop/workshop-example.Rmd",
+    "project_path" : "workshop-example.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,22",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

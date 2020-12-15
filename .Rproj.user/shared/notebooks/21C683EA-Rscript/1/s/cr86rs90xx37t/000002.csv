@@ -1,0 +1,5 @@
+"0","top20 <- head(arrange(desc(res_tableOE_tb)), n=20)
+"
+"2","Error: Can't combine `gene` <character> and `baseMean` <double>.
+[90mRun `rlang::last_error()` to see where the error occurred.[39m
+"
